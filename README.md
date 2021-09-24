@@ -41,8 +41,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
-- program did not recognize BuildConfig.COMSUMER_KEY, had to check slack
-- twitter developer portal has changed, had to check slack for updated procedure
+- Program did not recognize BuildConfig.COMSUMER_KEY, had to check Slack (had to rebuild project)
+- Twitter developer portal has changed, had to check Slack for updated procedure
 
 ## Open-source libraries used
 
